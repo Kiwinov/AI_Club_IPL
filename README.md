@@ -9,7 +9,7 @@ A peak accuracy of 92.8% was obtained for the prediction of Captaincy using an e
 1. **models**
    Contains all the models in a `.ipynb` file.
 2. **IPL FP & Captaincy Predictor.pdf**
-   The official project report.
+   A brief report of the procedure followed for prediction.
 3. **raw_data**
    Contains all the data that was used for prediction.
 
